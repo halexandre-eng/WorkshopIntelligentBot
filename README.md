@@ -1,4 +1,4 @@
-# WorkshopIntelligentBot
+# Workshop Intelligent Bot
 
 In this hands on workshop, you’ll create a simple financial Bot, configure its artifacts, test it and deploy it to a sample web application.
 
